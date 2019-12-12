@@ -15,6 +15,10 @@
 Спасибо всем за поддержку и понимание! Мы стараемся не стоять на месте и развиваться в правильном направлении!
 </i>
 
+#
+
+<center>Ищи нас в сети!
+
 <b>Паблик ВК</b>: [vk.com/plafonlinux](vk.com/plafonlinux)
 
 <b>Канал</b>: [youtube.com/plafonlinux](youtube.com/plafonlinux)
@@ -30,8 +34,6 @@
 <b>Помощь проекту</b>: [https://www.donationalerts.com/r/plafonlinux](https://www.donationalerts.com/r/plafonlinux)
 
 #
-
-### <center>Ищи нас в сети!
 
 <b>Личное железо автора проекта</b>:
 
