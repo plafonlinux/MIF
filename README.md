@@ -31,6 +31,8 @@
 
 #
 
+### <center>Ищи нас в сети!</center>
+
 <b>Личное железо автора проекта</b>:
 
 <b>Основной ПК</b>: [https://vk.com/plafonlinux?w=wall-151303502_5817](https://vk.com/plafonlinux?w=wall-151303502_5817)
@@ -39,4 +41,4 @@
 <b>Ноутбук</b>: [https://vk.com/plafonlinux?w=wall-151303502_5759](https://vk.com/plafonlinux?w=wall-151303502_5759)
 #
 
-###### <b>Ищи нас в сети</b>: @plafonlinux
+###### Powered by @plafonlinux
