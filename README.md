@@ -15,27 +15,28 @@
 Спасибо всем за поддержку и понимание! Мы стараемся не стоять на месте и развиваться в правильном направлении!
 </i>
 
-<b>Паблик ВК</b>: vk.com/plafonlinux
+<b>Паблик ВК</b>: [vk.com/plafonlinux](vk.com/plafonlinux)
 
-<b>Канал</b>: youtube.com/plafonlinux
+<b>Канал</b>: [youtube.com/plafonlinux](youtube.com/plafonlinux)
 
-<b>Новости</b>: t.me/plafonlinux
+<b>Новости</b>: [t.me/plafonlinux](t.me/plafonlinux)
 
-<b>Чат</b>: t.me/plafonlinuxchat
+<b>Чат</b>: [t.me/plafonlinuxchat](t.me/plafonlinuxchat)
 
-<b>Instagram</b>: instagram.com/plafonlinux
+<b>Instagram</b>: [instagram.com/plafonlinux](instagram.com/plafonlinux)
 
-<b>Файлики M.I.F.</b>: https://vk.com/plafonlinux?w=wall-151303502_5826
+<b>Файлики M.I.F.</b>: [https://vk.com/plafonlinux?w=wall-151303502_5826](https://vk.com/plafonlinux?w=wall-151303502_5826)
+
+<b>Помощь проекту</b>: [https://www.donationalerts.com/r/plafonlinux](https://www.donationalerts.com/r/plafonlinux)
 
 #
 
 <b>Личное железо автора проекта</b>:
 
-<b>Основной ПК</b>: https://vk.com/plafonlinux?w=wall-151303502_5817
+<b>Основной ПК</b>: [https://vk.com/plafonlinux?w=wall-151303502_5817](https://vk.com/plafonlinux?w=wall-151303502_5817)
 
 
-<b>Ноутбук</b>: https://vk.com/plafonlinux?w=wall-151303502_5759
-
+<b>Ноутбук</b>: [https://vk.com/plafonlinux?w=wall-151303502_5759](https://vk.com/plafonlinux?w=wall-151303502_5759)
 #
 
 ###### <b>Ищи нас в сети</b>: @plafonlinux
