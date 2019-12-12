@@ -17,7 +17,9 @@
 
 #
 
-<center>Ищи нас в сети!
+##<center>Ищи нас в сети!
+  
+#
 
 <b>Паблик ВК</b>: [vk.com/plafonlinux](vk.com/plafonlinux)
 
