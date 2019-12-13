@@ -1,0 +1,4 @@
+git clone
+cd ~/MIF
+git add .
+git push
