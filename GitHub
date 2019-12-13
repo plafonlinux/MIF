@@ -1,4 +1,7 @@
-git clone
-cd ~/MIF
+cd
+git clone https://github.com/plafonlinux/MIF.git
 git add .
+git commit -m "Что обновлено."
 git push
+
+cd ~/MIF
