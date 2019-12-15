@@ -76,7 +76,14 @@ Intel:  ```  sudo pacman -S vulkan-intel lib32-vulkan-intel vulkan-icd-loader li
 - DXVK c DirectX 11 
 - Игра работает отлично на Proton 4.11-9
 	
-D 	
+#D
+
+## - DOOM [PROTON]
+
+- DOOM запускается с пол пинка!
+- Proton 4.11-10
+- Графика очень плавная и стабильно держит 60FPS
+ 	
 E 	
 F 	
 
