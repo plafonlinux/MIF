@@ -462,6 +462,83 @@ git clone https://github.com/aliva/gedit-markdownpreview.git markdownpreview
 
 #
 # 
+                                                КАК ВОСТАНОВИТЬ СИСТЕМУ ЧЕРЕЗ TIMESHIFT
+
+# 
+
+### Опции восстановления:
+
+- Разные списки:
+
+ ``` --list[-snapshots]  ```         | Список точек восстановления
+
+ ``` --list-devices    ```           | Список устройств
+
+- Бэкап:
+
+ ``` --check   ```                   | Создать точку (если необходимо)
+
+ ``` --create  ```                   | Создать точку (даже если это не нужно)
+
+ ``` --comments <string>  ```        | Создать комментарий для точки восстановления
+
+
+- Восстановления системы:
+
+ ``` --restore    ```                | Востановить систему и выбрать доступную точку из списка далее
+
+ ``` --clone      ```                | Клонировать актуальную систему
+
+ ``` --snapshot <name>   ```         | Если вы точно знаете, какую точку хотет востановите, укажите ее в данной команде
+
+ ``` --target[-device] <device>  ``` | Выберите устройство
+
+ ``` --grub[-device] <device>   ```  | Укажите устройство на которое должен быть установлен GRUB
+
+ ``` --skip-grub             ```     | Восстановить систему без переустановки GRUB
+
+- Ручное удаление точек восстановления:
+
+ ``` --delete      ```               | Удалить точку восстановления
+
+ ``` --delete-all     ```            | Удалить все точки восстановления
+
+- Глобальные настройки Timeshift:
+
+ ``` --snapshot-device <device>  ``` | Specify backup device (default: config)
+
+ ``` --yes   ```                     | Ответить "ДА" на все последующие вопросы скрипта
+
+ ``` --btrfs    ```                  | Перейти в BTRFS mode (default: config)
+
+ ``` --rsync  ```                    | Перейти в RSYNC mode (default: config)
+
+ ``` --debug   ```                   | Показать весь список ошибок
+
+ ``` --verbose  ```                  | Show rsync output (default)
+
+ ``` --quiet      ```                | Hide rsync output
+
+ ``` --scripted    ```               | Run in non-interactive mode
+
+ ``` --help    ```                   | Show all options
+
+### Пример команд в Timeshift:
+
+ ``` timeshift --list ``` 
+
+ ``` timeshift --list --snapshot-device /dev/sda1 ``` 
+
+ ``` timeshift --create --comments "after update" --tags D ``` 
+
+ ``` timeshift --restore  ``` 
+
+ ``` timeshift --restore --snapshot '2014-10-12_16-29-08' --target /dev/sda1 ``` 
+
+ ``` timeshift --delete  --snapshot '2014-10-12_16-29-08' ``` 
+
+ ``` timeshift --delete-all  ``` 
+
 
                                                 РАЗНЫЕ ОШИБКИ И ПРОБЛЕМЫ
 
