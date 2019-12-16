@@ -462,7 +462,7 @@ git clone https://github.com/aliva/gedit-markdownpreview.git markdownpreview
 
 #
 # 
-                                                КАК ВОСТАНОВИТЬ СИСТЕМУ ЧЕРЕЗ TIMESHIFT
+                                                КАК ВОCСТАНОВИТЬ СИСТЕМУ ЧЕРЕЗ TIMESHIFT
 
 # 
 
