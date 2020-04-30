@@ -6,23 +6,4 @@ git push
 
 cd ~/MIF
 
-Скрипт по автообновлению: 
 
-
-mkdir -p ~/.local/bin
-echo '#!/bin/bash'>~/.local/bin/git.sh
-echo "git add ." »~/.local/bin/git.sh
-echo "git commit -m '$1'" »~/.local/bin/git.sh
-echo "git add ." >>~/.local/bin/git.sh
-echo "git commit -m '$1'" >>~/.local/bin/git.sh
-echo "git push"
-chmod +x ~/.local/bin/git.sh
-echo "export PATH=\"$PATH:$HOME/.local/bin\"" »~/.bashrc
-echo "export PATH=\"$PATH:$HOME/.local/bin\"" >>~/.bashrc
-
-Каждую строку скопируй и вставь в терминал нажимая Enter.
-Это создаст файл в директории ~/home/.local/bin
-
-В него воткнутся эти три команды и сделается исполняемым. А последняя команда добавляет в переменную PATH путь к этому файлу, чтобы система знала откуда его запускать. В итоге тебе обновлять уже будет легче. После изменений, просто в терминале выполнишь:
-
-git.sh "Здесь текст коммита"
