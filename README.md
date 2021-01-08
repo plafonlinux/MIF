@@ -29,9 +29,10 @@
   
 #
 
-<b>Паблик ВК</b>: [vk.com/plafonlinux](vk.com/plafonlinux)
-<b>Канал</b>: [youtube.com/plafonlinux](youtube.com/plafonlinux)
-<b>Телеграм</b>: [t.me/plafonlinux](t.me/plafonlinux)
-<b>Чат</b>: [t.me/plafonlinuxchat](t.me/plafonlinuxchat)
+[<b>Паблик ВК</b>:](https://vk.com/plafonlinux)
+[<b>YouTube</b>:](https://www.youtube.com/channel/UCf7pLsR7lko69y8ySTpoKxg/featured)
+[<b>Стримы</b>:](youtube.com/plafonlinux)
+[<b>Телеграм</b>:](t.me/plafonlinux)
+[<b>Чат</b>: ](t.me/plafonlinuxchat)
 
 ###### Powered by @plafonlinux
