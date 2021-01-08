@@ -1,6 +1,6 @@
 # M.I.F. - текстовой помощник для настройки Линукса! 
 
-- На данный момент доступны 2 версии файлов, для рабочих окружений Gnome 3 и KDE Plasma
+- На данный момент доступны 2 версии файлов, для Manjaro Gnome и Manjaro KDE
 
 <p align="center">
 <a href="https://www.donationalerts.com/r/donplafon"><img width="32px" src="https://raw.githubusercontent.com/adi1090x/files/master/other/1.png" alt="Buy Me A Coffee - Купить мне кофе"></a>
