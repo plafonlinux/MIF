@@ -2,17 +2,25 @@
 
 - На данный момент доступны 2 версии файлов, для рабочих окружений Gnome 3 и KDE Plasma
 
+<p align="center">
+<a href="https://www.donationalerts.com/r/donplafon"><img width="32px" src="https://raw.githubusercontent.com/adi1090x/files/master/other/1.png" alt="Buy Me A Coffee - Купить мне кофе"></a>
+<a href="https://paypal.me/godofgnome?locale.x=ru_RU"><img width="32px" src="https://raw.githubusercontent.com/adi1090x/files/master/other/3.png" alt="Support me on Paypal"></a>
+<a href="https://www.patreon.com/plafonlinux"><img width="32px" src="https://raw.githubusercontent.com/adi1090x/files/master/other/4.png" alt="Support me on Patreon"></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Поддерживается%3F-Да-green?style=flat-square">
+  <img src="https://img.shields.io/github/license/plafonlinux/MIF?style=flat-square">
+  <img src="https://img.shields.io/github/stars/plafonlinux/MIF?style=flat-square">
+  <img src="https://img.shields.io/github/forks/plafonlinux/MIF?color=teal&style=flat-square">
+  <img src="https://img.shields.io/github/issues/plafonlinux/MIF?color=violet&style=flat-square">
+</p>
+
 #
 
-<b>О проекте</b>: [Плафон](https://vk.com/plafonlinux) - <i>молодой Линукс канал, который занимается популяризацией Manjaro и разбором других арч-зависимых дистрибутивов ... В первую очередь проект ориентирован на новичков в Линуксе, стараясь своими гайдами и наглядными пособиями облегчить переход обычного пользователя Windows на операционные системы с ядром Линукс.
+<b>О проекте</b>: [Плафон](https://vk.com/plafonlinux) - <i>#PLAFON - линукс проект, который занимается популяризацией дистрибутивов на базе ядра Линукс и создания контента в программном обеспечении с открытым исходным кодом (opensource).
 
-Большое внимание будет уделено работе в Krita и видеомонтажу в DaVinci Risolve, для создания полноценной альтернативы, застоявшийся в своем сегменте чрезмерно дорогих и не работающих на Линуксе продуктов от компании Adobe.
-
-На досуге, на канале можно поприсутствовать на игровых стримах на Линуксе и PS4, а также по их запуску и установке ... Распаковки разных гаджетов для личного использования и не только, конкурсы, авторские видео блоги и подкасты ...
-
-Все это теперь объединено под крышей одного проекта PlaFon (Плафон) ...
-
-Спасибо всем за поддержку и понимание! Мы стараемся не стоять на месте и развиваться в правильном направлении!
+В первую очередь проект ориентирован на новичков в Линуксе, стараясь на своем примере, показать возможную альтернативу Windows и помочь облегчить им переход с Windows на операционные системы с ядром Линукс, если в этом есть необходимость.
 </i>
 
 #
@@ -25,24 +33,10 @@
 
 <b>Канал</b>: [youtube.com/plafonlinux](youtube.com/plafonlinux)
 
-<b>Новости</b>: [t.me/plafonlinux](t.me/plafonlinux)
+<b>Телеграм</b>: [t.me/plafonlinux](t.me/plafonlinux)
 
 <b>Чат</b>: [t.me/plafonlinuxchat](t.me/plafonlinuxchat)
 
-<b>Instagram</b>: [instagram.com/plafonlinux](instagram.com/plafonlinux)
-
-<b>Файлики M.I.F.</b>: [https://vk.com/plafonlinux?w=wall-151303502_5826](https://vk.com/plafonlinux?w=wall-151303502_5826)
-
 <b>Помощь проекту</b>: [https://www.donationalerts.com/r/plafonlinux](https://www.donationalerts.com/r/plafonlinux)
-
-#
-
-<b>Личное железо автора проекта</b>:
-
-<b>Основной ПК</b>: [https://vk.com/plafonlinux?w=wall-151303502_5817](https://vk.com/plafonlinux?w=wall-151303502_5817)
-
-
-<b>Ноутбук</b>: [https://vk.com/plafonlinux?w=wall-151303502_5759](https://vk.com/plafonlinux?w=wall-151303502_5759)
-#
 
 ###### Powered by @plafonlinux
