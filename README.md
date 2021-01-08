@@ -30,13 +30,8 @@
 #
 
 <b>Паблик ВК</b>: [vk.com/plafonlinux](vk.com/plafonlinux)
-
 <b>Канал</b>: [youtube.com/plafonlinux](youtube.com/plafonlinux)
-
 <b>Телеграм</b>: [t.me/plafonlinux](t.me/plafonlinux)
-
 <b>Чат</b>: [t.me/plafonlinuxchat](t.me/plafonlinuxchat)
-
-<b>Помощь проекту</b>: [https://www.donationalerts.com/r/plafonlinux](https://www.donationalerts.com/r/plafonlinux)
 
 ###### Powered by @plafonlinux
