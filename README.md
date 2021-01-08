@@ -28,11 +28,12 @@
 ### Ищи нас в сети и присоединяйся к проекту! Вместе мы сила! Linux for simply Life!
   
 #
-
-[<b>Паблик ВК</b>:](https://vk.com/plafonlinux)
-[<b>YouTube</b>:](https://www.youtube.com/channel/UCf7pLsR7lko69y8ySTpoKxg/featured)
-[<b>Стримы</b>:](youtube.com/plafonlinux)
-[<b>Телеграм</b>:](t.me/plafonlinux)
-[<b>Чат</b>: ](t.me/plafonlinuxchat)
+<p align="center">
+[<b>Паблик ВК</b>](https://vk.com/plafonlinux)
+[<b>YouTube</b>](https://www.youtube.com/channel/UCf7pLsR7lko69y8ySTpoKxg/featured)
+[<b>Стримы</b>](youtube.com/plafonlinux)
+[<b>Телеграм</b>](t.me/plafonlinux)
+[<b>Чат</b>](t.me/plafonlinuxchat)
+</p>
 
 ###### Powered by @plafonlinux
